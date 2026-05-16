@@ -1,8 +1,9 @@
+function App() {
   return (
     <div>
-      <h1> welcome to the cake shop </h1>
-      <p> Enjoy our delicious cakes! </p>
-         </div>
-  )
+      <h1>Online Cake Shop</h1>
+    </div>
+  );
+}
 
-export default App
+export default App;
